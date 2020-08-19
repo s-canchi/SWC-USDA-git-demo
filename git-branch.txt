@@ -1,0 +1,3 @@
+All commits in git are in branches
+The main branch is master branch
+Copying a repository from remote into local is Cloning
